@@ -1,5 +1,17 @@
 .banner{
     background-image: url(images/banner.png);
     height: 65vh;
+    
  
+}
+.banners{
+    background-image: url(images/download.jpeg);
+    height: 60vh;
+}
+.btn{
+    background-color: rgb(181, 167, 92);
+}
+.font{
+   font-size: 60px;
+ font-family: Arial, Helvetica, sans-serif;
 }
